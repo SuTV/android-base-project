@@ -1,5 +1,5 @@
-# planday-android
-New architecture for planday's android application
+# android-seed-project
+Base android application
 
 ## Used Libraries
 - Dagger
