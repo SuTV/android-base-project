@@ -1,4 +1,4 @@
-# android-seed-project
+# android-base-project
 Base android application
 
 ## Used Libraries
